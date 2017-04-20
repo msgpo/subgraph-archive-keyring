@@ -1,4 +1,4 @@
-subgraph-archive-keyring (1.0) unstable; urgency=medium
+subgraph-archive-keyring (1.0.0-1) unstable; urgency=medium
 
   * Initial release
 
