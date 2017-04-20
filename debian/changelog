@@ -1,5 +1,0 @@
-subgraph-archive-keyring (1.0) unstable; urgency=medium
-
-  * Initial release
-
- -- David McKinney <mckinney@subgraph.com>  Wed, 30 Mar 2016 12:57:14 +0000
