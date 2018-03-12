@@ -1,3 +1,9 @@
+subgraph-archive-keyring (1.0.1-1) unstable; urgency=medium
+
+  * Updated Subgraph release signing key
+
+ -- David McKinney <mckinney@subgraph.com>  Sun, 11 Mar 2018 20:39:02 -0400
+
 subgraph-archive-keyring (1.0.0-1) unstable; urgency=medium
 
   * Initial release
